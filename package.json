@@ -6,7 +6,7 @@
   "dependencies": {
     "chromedriver": "^79.0.0",
     "selenium-webdriver": "^4.0.0-alpha.5",
-    "xlsx": "^0.15.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {},
   "scripts": {
